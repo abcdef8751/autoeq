@@ -1,6 +1,7 @@
+# autoeq
 Finds peaking filters to EQ one frequency response to match another.
 
-Usage: ```sh
+Usage: ```
 cargo r```
 
 main.rs parameters:
@@ -13,4 +14,3 @@ main.rs parameters:
   - min_gain/max_gain: gain limits in dB
   - min_q/max_q: quality factor limits
   - lower_freq/upper_freq: frequency limits in Hz
-# autoeq
