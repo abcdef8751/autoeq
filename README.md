@@ -1,8 +1,7 @@
 # autoeq
 Finds peaking filters to EQ one frequency response to match another.
 
-Usage: ```
-cargo r```
+Usage: ```cargo r```
 
 main.rs parameters:
   - input_file/output_file: paths for frequency response files provided by squig.link sites
