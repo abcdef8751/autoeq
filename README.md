@@ -13,3 +13,6 @@ main.rs parameters:
   - min_gain/max_gain: gain limits in dB
   - min_q/max_q: quality factor limits
   - lower_freq/upper_freq: frequency limits in Hz
+
+Resulting files are in APO format and are written to ./eq
+The resulting frequency response is written to ./test.txt
